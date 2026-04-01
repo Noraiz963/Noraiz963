@@ -9,7 +9,7 @@ I am a dedicated Engineering student at **NFC-IET Multan**, currently in my **8t
 ## 🚀 Featured Project: MIRA
 **MIRA (Multi-Model Intelligent Robotic Assistant)** is my Final Year Project
 **Core Tech:** Raspberry Pi, Python, and Machine Learning.
-* [cite_start]**Functionality:** An AI-driven, voice-controlled robotic arm designed for seamless integration with automation systems to enhance operational precision.
+**Functionality:** An AI-driven, voice-controlled robotic arm designed for seamless integration with automation systems to enhance operational precision.
 
 ---
 
@@ -31,9 +31,6 @@ I am a dedicated Engineering student at **NFC-IET Multan**, currently in my **8t
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noraiz963&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noraiz963&layout=compact&theme=tokyonight)
 
 ---
 
