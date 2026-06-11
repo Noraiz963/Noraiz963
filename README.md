@@ -5,7 +5,7 @@
 ### 🎓 Electronics Engineering Graduate
 **Instrumentation & Automation | Embedded Systems | Robotics & AI**
 
-📍 Multan, Pakistan &nbsp;|&nbsp; ✉️ mnoraiz990@gmail.com &nbsp;|&nbsp; 📞 +92-316-0077068
+📍 kabirwala, Pakistan &nbsp;|&nbsp; ✉️ mnoraiz990@gmail.com &nbsp;|&nbsp; 📞 +92-316-0077068
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noraiz-963d)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Gamma-6C3CE1?style=for-the-badge&logo=gamma&logoColor=white)](https://noraiz-irshad-qdwrsgx.gamma.site/)
